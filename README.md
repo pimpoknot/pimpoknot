@@ -6,7 +6,7 @@ Sou um FullStack Developer :computer:
 
  ::coffee: &nbsp; Graduando em Ciencia da Computação
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Java usando Springboot :coffee:
- <br/> :computer: &nbsp; Minha stack: Springboot, Angular, ReactJS, Node.js, React Native & Typescript
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games & seriados.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcosMaverick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-maverick-091321101/)](https://www.linkedin.com/in/marcos-maverick-091321101/) 
 | 

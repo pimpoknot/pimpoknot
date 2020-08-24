@@ -1,8 +1,5 @@
 # Marcos Maverick
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
 
  ::coffee: &nbsp; Graduando em Ciencia da Computação
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em JavaScript :coffee:

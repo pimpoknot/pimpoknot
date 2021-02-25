@@ -2,8 +2,10 @@
 
 
  ::coffee: &nbsp; Graduando em Ciencia da Computação
- <br/> :purple_heart: &nbsp; Trabalho atualmente com projetos em HTML, CSS e JavaScript
- <br/> :coffee: &nbsp; Estudando Java usando Spring Boot como framework 
+ <br/> Skills:
+. Web: HTML, CSS, SASS,JavaScript, React,NextJS, Webpack, Gulp, Wordpress
+ <br/>
+. Backend: Java, Springboot, NodeJS, PHP, MySQL, PostgreSQL 
  <br/> :computer: &nbsp; Experiência com as stack : ReactJS, Node.js, NextJS
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcosMaverick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-maverick-091321101/)](https://www.linkedin.com/in/marcos-maverick-091321101/) 
 | 

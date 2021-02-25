@@ -6,7 +6,7 @@
 . Web: HTML, CSS, SASS,JavaScript, React,NextJS, Webpack, Gulp, Wordpress
  <br/>
 . Backend: Java, Springboot, NodeJS, PHP, MySQL, PostgreSQL 
- <br/> :computer: &nbsp; Experiência com as stack : ReactJS, Node.js, NextJS
+ <br/> :computer: &nbsp; Atualmente estudando as stack(Alguns projetos aqui no Github) : ReactJS, Node.js, NextJS
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcosMaverick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-maverick-091321101/)](https://www.linkedin.com/in/marcos-maverick-091321101/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-maverick.comunicacao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maverick.comunicacao@gmail.com)](mailto:maverick.comunicacao@gmail.com)

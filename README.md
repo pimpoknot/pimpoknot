@@ -3,7 +3,7 @@
 
  ::coffee: &nbsp; Graduando em Ciencia da Computação
  <br/>
-. Web: HTML, CSS, SASS,JavaScript, React,NextJS, Webpack, Gulp, Wordpress
+. Web: HTML, CSS, SASS, JavaScript, TypeScript, React, NextJS, Webpack, Gulp, Wordpress
  <br/>
 . Backend: Java, Springboot, NodeJS, PHP, MySQL, PostgreSQL 
  <br/> :computer: &nbsp; Atualmente estudando as stack(Alguns projetos aqui no Github) : ReactJS, Node.js, NextJS

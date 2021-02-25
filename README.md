@@ -2,7 +2,7 @@
 
 
  ::coffee: &nbsp; Graduando em Ciencia da Computação
- <br/> Skills:
+ <br/>
 . Web: HTML, CSS, SASS,JavaScript, React,NextJS, Webpack, Gulp, Wordpress
  <br/>
 . Backend: Java, Springboot, NodeJS, PHP, MySQL, PostgreSQL 

@@ -1,7 +1,7 @@
 # Marcos Maverick
 
 
- ::coffee: &nbsp; Graduando em Ciencia da Computação
+ Fullstack developer here are all my stacks:
  <br/>
 . Web: HTML, CSS, SASS, JavaScript, TypeScript, React, NextJS, Webpack, Gulp, Wordpress
  <br/>

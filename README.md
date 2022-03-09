@@ -1,7 +1,7 @@
 # Marcos Maverick
 
 
- Fullstack developer here are all my stacks:
+ Fullstack Developer
  <br/>
  <br/>
 . Web: HTML, CSS, SASS, JavaScript, TypeScript, React, NextJS, Webpack, Gulp, Wordpress
